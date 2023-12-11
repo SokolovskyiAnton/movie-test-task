@@ -1,6 +1,16 @@
-# Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+## Env
+
+Make sure to setup the keys:
+
+```bash
+# NUXT_API_URL
+you can find it here - https://www.omdbapi.com/
+
+# NUXT_API_KEY
+you can find it here - https://www.omdbapi.com/
+```
 
 ## Setup
 
